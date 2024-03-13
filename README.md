@@ -1,6 +1,5 @@
-**Model: eos6oil - Aqueous solubility prediction** 
-<br>
-Summary <br>
+# Model: eos6oil - Aqueous solubility prediction
+### Introduction 
 This repository include datas, technique and model predictions.
 <br>
 Folders are organized in following way: <br>
