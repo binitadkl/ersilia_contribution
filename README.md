@@ -1,1 +1,1 @@
-Model: eos6oil - Aqueous solubility prediction
+**Model: eos6oil - Aqueous solubility prediction**
